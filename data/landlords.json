@@ -1,0 +1,365 @@
+{
+  "source": "DC rental registry extract (synthetic)",
+  "retrieved": "2026-10-22",
+  "landlords": [
+    {
+      "landlord_id": "LL101",
+      "name": "Rock Creek Realty",
+      "type": "company",
+      "contact": {
+        "phone": "(240) 555-1000",
+        "email": "rockcreekrealty@rentals.net"
+      },
+      "rating": 4.8,
+      "licenses": [
+        "DC-BBL-139193"
+      ],
+      "since": 2016
+    },
+    {
+      "landlord_id": "LL102",
+      "name": "Brian Brooks",
+      "type": "individual",
+      "contact": {
+        "phone": "(703) 555-1037",
+        "email": "brian.brooks@mail.com"
+      },
+      "rating": 2.9,
+      "licenses": [
+        "DC-BBL-992913",
+        "DC-BBL-534276"
+      ],
+      "since": 2014
+    },
+    {
+      "landlord_id": "LL103",
+      "name": "Chidi Okafor",
+      "type": "individual",
+      "contact": {
+        "phone": "(703) 555-1074",
+        "email": "chidi.okafor@mail.com"
+      },
+      "rating": 4.6,
+      "licenses": [
+        "DC-BBL-357069"
+      ],
+      "since": 2018
+    },
+    {
+      "landlord_id": "LL104",
+      "name": "Dana Reyes",
+      "type": "individual",
+      "contact": {
+        "phone": "(703) 555-1111",
+        "email": "dana.reyes@mail.com"
+      },
+      "rating": 4.8,
+      "licenses": [
+        "DC-BBL-726230",
+        "DC-BBL-316405"
+      ],
+      "since": 2011
+    },
+    {
+      "landlord_id": "LL105",
+      "name": "Efua Asante",
+      "type": "individual",
+      "contact": {
+        "phone": "(301) 555-1148",
+        "email": "efua.asante@mail.com"
+      },
+      "rating": 3.5,
+      "licenses": [
+        "DC-BBL-541663"
+      ],
+      "since": 2022
+    },
+    {
+      "landlord_id": "LL106",
+      "name": "Anacostia Homes",
+      "type": "company",
+      "contact": {
+        "phone": "(202) 555-1185",
+        "email": "anacostiahomes@rentals.net"
+      },
+      "rating": 4.7,
+      "licenses": [
+        "DC-BBL-977357",
+        "DC-BBL-363060"
+      ],
+      "since": 2015
+    },
+    {
+      "landlord_id": "LL107",
+      "name": "Gloria Diallo",
+      "type": "individual",
+      "contact": {
+        "phone": "(301) 555-1222",
+        "email": "gloria.diallo@mail.com"
+      },
+      "rating": 2.6,
+      "licenses": [
+        "DC-BBL-846078"
+      ],
+      "since": 2011
+    },
+    {
+      "landlord_id": "LL108",
+      "name": "Hassan Karim",
+      "type": "individual",
+      "contact": {
+        "phone": "(703) 555-1259",
+        "email": "hassan.karim@mail.com"
+      },
+      "rating": 3.1,
+      "licenses": [
+        "DC-BBL-476290"
+      ],
+      "since": 2023
+    },
+    {
+      "landlord_id": "LL109",
+      "name": "Imani Coleman",
+      "type": "individual",
+      "contact": {
+        "phone": "(240) 555-1296",
+        "email": "imani.coleman@mail.com"
+      },
+      "rating": 2.8,
+      "licenses": [
+        "DC-BBL-622500",
+        "DC-BBL-756868"
+      ],
+      "since": 2021
+    },
+    {
+      "landlord_id": "LL110",
+      "name": "Jamal Wright",
+      "type": "individual",
+      "contact": {
+        "phone": "(301) 555-1333",
+        "email": "jamal.wright@mail.com"
+      },
+      "rating": 3.5,
+      "licenses": [
+        "DC-BBL-696850"
+      ],
+      "since": 2020
+    },
+    {
+      "landlord_id": "LL111",
+      "name": "Potomac Property Group",
+      "type": "company",
+      "contact": {
+        "phone": "(301) 555-1370",
+        "email": "potomacpropertygroup@rentals.net"
+      },
+      "rating": 4.5,
+      "licenses": [
+        "DC-BBL-273793",
+        "DC-BBL-777958"
+      ],
+      "since": 2023
+    },
+    {
+      "landlord_id": "LL112",
+      "name": "Luis Ortiz",
+      "type": "individual",
+      "contact": {
+        "phone": "(240) 555-1407",
+        "email": "luis.ortiz@mail.com"
+      },
+      "rating": 2.8,
+      "licenses": [
+        "DC-BBL-894342"
+      ],
+      "since": 2011
+    },
+    {
+      "landlord_id": "LL113",
+      "name": "Maya Patel",
+      "type": "individual",
+      "contact": {
+        "phone": "(202) 555-1444",
+        "email": "maya.patel@mail.com"
+      },
+      "rating": 4.6,
+      "licenses": [
+        "DC-BBL-323806"
+      ],
+      "since": 2011
+    },
+    {
+      "landlord_id": "LL114",
+      "name": "Nia Adeyemi",
+      "type": "individual",
+      "contact": {
+        "phone": "(240) 555-1481",
+        "email": "nia.adeyemi@mail.com"
+      },
+      "rating": 4.7,
+      "licenses": [
+        "DC-BBL-439267"
+      ],
+      "since": 2021
+    },
+    {
+      "landlord_id": "LL115",
+      "name": "Olu Bello",
+      "type": "individual",
+      "contact": {
+        "phone": "(703) 555-1518",
+        "email": "olu.bello@mail.com"
+      },
+      "rating": 3.1,
+      "licenses": [
+        "DC-BBL-472555",
+        "DC-BBL-675959"
+      ],
+      "since": 2018
+    },
+    {
+      "landlord_id": "LL116",
+      "name": "Capitol Keys",
+      "type": "company",
+      "contact": {
+        "phone": "(301) 555-1555",
+        "email": "capitolkeys@rentals.net"
+      },
+      "rating": 3.5,
+      "licenses": [
+        "DC-BBL-222167",
+        "DC-BBL-405280"
+      ],
+      "since": 2015
+    },
+    {
+      "landlord_id": "LL117",
+      "name": "Quinn Nguyen",
+      "type": "individual",
+      "contact": {
+        "phone": "(301) 555-1592",
+        "email": "quinn.nguyen@mail.com"
+      },
+      "rating": 4.4,
+      "licenses": [
+        "DC-BBL-621267"
+      ],
+      "since": 2021
+    },
+    {
+      "landlord_id": "LL118",
+      "name": "Rosa Alvarez",
+      "type": "individual",
+      "contact": {
+        "phone": "(240) 555-1629",
+        "email": "rosa.alvarez@mail.com"
+      },
+      "rating": 3.5,
+      "licenses": [
+        "DC-BBL-742786"
+      ],
+      "since": 2012
+    },
+    {
+      "landlord_id": "LL119",
+      "name": "Samuel Tutu",
+      "type": "individual",
+      "contact": {
+        "phone": "(202) 555-1666",
+        "email": "samuel.tutu@mail.com"
+      },
+      "rating": 4.0,
+      "licenses": [
+        "DC-BBL-559322"
+      ],
+      "since": 2022
+    },
+    {
+      "landlord_id": "LL120",
+      "name": "Tia Freeman",
+      "type": "individual",
+      "contact": {
+        "phone": "(240) 555-1703",
+        "email": "tia.freeman@mail.com"
+      },
+      "rating": 4.3,
+      "licenses": [
+        "DC-BBL-354486"
+      ],
+      "since": 2017
+    },
+    {
+      "landlord_id": "LL121",
+      "name": "Northstar Rentals",
+      "type": "company",
+      "contact": {
+        "phone": "(703) 555-1740",
+        "email": "northstarrentals@rentals.net"
+      },
+      "rating": 2.9,
+      "licenses": [
+        "DC-BBL-722031",
+        "DC-BBL-377160"
+      ],
+      "since": 2019
+    },
+    {
+      "landlord_id": "LL122",
+      "name": "Vera Novak",
+      "type": "individual",
+      "contact": {
+        "phone": "(240) 555-1777",
+        "email": "vera.novak@mail.com"
+      },
+      "rating": 3.3,
+      "licenses": [
+        "DC-BBL-852527",
+        "DC-BBL-641673"
+      ],
+      "since": 2020
+    },
+    {
+      "landlord_id": "LL123",
+      "name": "Wale Ade",
+      "type": "individual",
+      "contact": {
+        "phone": "(301) 555-1814",
+        "email": "wale.ade@mail.com"
+      },
+      "rating": 2.7,
+      "licenses": [
+        "DC-BBL-100895"
+      ],
+      "since": 2020
+    },
+    {
+      "landlord_id": "LL124",
+      "name": "Xavier Pierce",
+      "type": "individual",
+      "contact": {
+        "phone": "(202) 555-1851",
+        "email": "xavier.pierce@mail.com"
+      },
+      "rating": 3.2,
+      "licenses": [
+        "DC-BBL-224709"
+      ],
+      "since": 2021
+    },
+    {
+      "landlord_id": "LL125",
+      "name": "Yara Haddad",
+      "type": "individual",
+      "contact": {
+        "phone": "(703) 555-1888",
+        "email": "yara.haddad@mail.com"
+      },
+      "rating": 2.8,
+      "licenses": [
+        "DC-BBL-755547"
+      ],
+      "since": 2019
+    }
+  ]
+}
