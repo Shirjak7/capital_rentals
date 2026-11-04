@@ -1,0 +1,7 @@
+column,rule,count,listing_ids
+rent,z_score,1,R-10016
+rent,modified_z,3,"R-10016, R-10119, R-10261"
+rent,IQR,3,"R-10016, R-10119, R-10261"
+ppsf,z_score,1,R-10016
+ppsf,modified_z,3,"R-10016, R-10062, R-10141"
+ppsf,IQR,4,"R-10016, R-10062, R-10119, R-10141"
